@@ -1,24 +1,90 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<div class="main-post-list">
+    <title>Sumedhe Dissanayake</title>
+    <meta name="author" content="Sumedhe Dissanayake">
+    <meta name="description" content="Programming | Robotics | Web Developing">
+    <meta name="generator" content="Hugo 0.18.1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
-  <ol class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span></div>
-        <hr class="post-list__divider">
-      </li>
-    {% endfor %}
-  </ol>
+    <link rel="shortcut icon" href="http://www.sumedhe.com/img/favicon.ico">
 
-  <hr class="post-list__divider ">
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="http://www.sumedhe.com/css/styles.css">
+    <link rel="stylesheet" href="http://www.sumedhe.com/css/sp-minimal.css">
+    
+      <link rel="stylesheet" href="http://www.sumedhe.com/css/sp-minimal-simple.css">
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/default.min.css">
+</head>
 
-  {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
-  {% endif %}
+<body><div class="wrapper">
 
-</div>
+<header class="text-center">
+   <img src="http://www.sumedhe.com/img/sumedhe.jpg" class="img-circle s200"> 
+
+  
+    <h1 class="border-bottom add-padding-bottom"><a href="http://www.sumedhe.com/">Sumedhe Dissanayake</a></h1>
+  
+	
+  
+    <h2 class="text-right add-padding-right">Computer Science Student</h2>
+  
+
+  
+    <p class="text-right remove-margin-bottom add-padding-right">Programming | Robotics | Web Developing</p>
+  
+</header>
+
+
+
+
+
+  <section>
+    
+
+  <p class="remove-margin-bottom"><small>
+    <time datetime="23 January 2017">23 January 2017</time>
+  </small></p>
+
+  <h2><a href="http://www.sumedhe.com/post/about/">About me</a></h2>
+
+  <p>
+    
+       sumedhe dissanayake I am Sumedhe Dissanayake.
+Contact  Ph:(+94) 77 205 5141 Email: sumedhe5dms@gmail.com  
+      
+    
+  </p>
+
+
+
+
+    <div class="pagination"> 
+     </div>
+  </section>
+
+
+<footer>
+  <p class="remove-margin-bottom add-padding-right">
+    &copy; 2017 
+    <a href="http://www.sumedhe.com/">Sumedhe Dissanayake</a>
+  </p>
+
+  <p class="remove-margin-bottom add-padding-right"><small>
+    <a href="https://github.com/eueung/hugo-sp-minimal">Hugo SP-Minimal</a> Theme | 
+    Based on <a href="https://github.com/orderedlist/minimal">Minimal</a>
+  </small></p>    
+</footer>
+
+
+</div><script src="http://www.sumedhe.com/js/scale.fix.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body></html>
