@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# front cover jekyll theme
 
-You can use the [editor on GitHub](https://github.com/sumedhe/sumedhe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Why choose this jekyll theme for your front page?
+* You don't have to modify any HTML, everything can be modified in config.yml.
+* Very lightweight. No Javascript, No Bootstrap etc..
+* MIT licensed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## See it in action
+<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Credits
+The background image that was used as an example comes from Tom Hall.
+You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+It's licensed under Creative-Commons.
 
-```markdown
-Syntax highlighted code block
+This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumedhe/sumedhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
