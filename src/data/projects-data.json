@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Unsupervised Discovery of Design Features of Websites",
+        "description": "Final Year Research Project",
+        "tagline": "Unsupervised Learning, Self Organizing Map, MATLAB",
+        "url": ""
+    },
+    {
+        "name": "SenZ Switch",
+        "description": "SenZ Switch is a high-speed and high secure message passing system which can be used for the communication between IoT devices.",
+        "tagline": "Scala, Akka Streams, IoT",
+        "url": ""
+    },
+    {
+        "name": "Self Organizing Map",
+        "description": "C++ implementation of Self Organizing Map",
+        "tagline": "Machine Learning, C++, Rust",
+        "url": ""
+    },
+    {
+        "name": "Tess-TA",
+        "description": "A web-based OCR for the Sinhala Language.",
+        "tagline": "Java, Spring Boot, ReactJS, MongoDB, Docker, REST",
+        "url": ""
+    },
+    {
+        "name": "MinuteGen",
+        "description": "A web based minute tracking system for Board of Study of UCSC.",
+        "tagline": "PHP, JavaScript, MySQL, REST",
+        "url": ""
+    },
+    {
+        "name": "Play-To-Learn",
+        "description": "Android game developed in the style of 'Snake & Ladders' to develop the algorithmic and programming skills of students.",
+        "tagline": "Android SDK, Firebase, Angular",
+        "url": ""
+    },
+    {
+        "name": "Mobile ATM",
+        "description": "A mobile wallet based on IOTA distributed ledger",
+        "tagline": "Android SDK, IOTA, Firebase, Cloud Functions",
+        "url": ""
+    },
+    {
+        "name": "I Have a Theory",
+        "description": "An adventure game that is designed to teach Chemistry.",
+        "tagline": "Android SDK, Adobe AIR",
+        "url": ""
+    },
+    {
+        "name": "Beacona",
+        "description": "A shopping assistant platform that uses Physical Web Beacons.",
+        "tagline": "Ionic, Cordova, iBeacon, PHP, REST, MySQL",
+        "url": ""
+    },
+    {
+        "name": "Seek",
+        "description": "A geo-location-based voluntary teacher and student pairing service.",
+        "tagline": "Ionic, Cordova, Typescript, PHP, REST",
+        "url": ""
+    },
+    {
+        "name": "AWDS",
+        "description": "Adaptive Water Distribution System",
+        "tagline": "Arduino, Python, SciPy, REST, PHP, Machine Learning, IoT",
+        "url": ""
+    }
+]

@@ -1,18 +1,29 @@
-# front cover jekyll theme
+# sumedhe dissanayake
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+This template should help get you started developing with Vue 3 in Vite.
 
+## Recommended IDE Setup
 
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+## Customize configuration
 
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

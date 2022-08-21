@@ -1,0 +1,25 @@
+{
+    "name": "Sumedhe Dissanayake",
+    "headline": "Senior Software Engineer",
+    "company": "WSO2",
+    "github": {
+        "url": "https://github.com/sumedhe",
+        "display": "sumedhe"
+    },
+    "linkedin": {
+        "url": "https://lk.linkedin.com/in/sumedhe",
+        "display": "sumedhe"
+    },
+    "stackoverflow": {
+        "url": "http://stackoverflow.com/users/4156868/sumedhe",
+        "display": "sumedhe"
+    },
+    "twitter": {
+        "url": "https://twitter.com/sumedhediss",
+        "display": "@sumedhediss"
+    },
+    "medium": {
+        "url": "https://sumedhe.medium.com/",
+        "display": "sumedhe"
+    }
+}
